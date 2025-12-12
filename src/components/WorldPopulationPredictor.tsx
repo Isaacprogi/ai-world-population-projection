@@ -175,7 +175,7 @@ Rules:
     <div className="min-h-screen bg-gray-950 text-white pb-12">
       <div className="max-w-5xl mx-auto px-4">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-center pt-8 mb-3 bg-clip-text text-transparent bg-gradient-to-r from-teal-400 to-indigo-500">
-          “AI-Powered Population Projection
+          AI-Powered Population Projection
         </h1>
         <p className="text-center text-sm sm:text-base text-gray-400 mb-6">
           Enter any year → Get AI-powered UN projection + male/female breakdown
