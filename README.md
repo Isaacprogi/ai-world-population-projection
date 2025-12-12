@@ -38,7 +38,7 @@ npm install
 Create .env file:
 
 ```bash
-envVITE_GROQ_API_KEY=your_groq_key_here
+VITE_GROQ_API_KEY=your_groq_key_here
 ```
 Get your free key
 
@@ -47,8 +47,15 @@ Get your free key
  ```
 
 Then run:
+```bash
 npm run dev
-Open http://localhost:5173
+```
+
+Open 
+
+```bash
+http://localhost:5173
+```
 
 
 ## Data Accuracy
