@@ -199,7 +199,7 @@ Rules:
             className="px-6 py-2 sm:px-8 sm:py-3 bg-gradient-to-r from-indigo-600 to-pink-600 rounded-lg font-semibold text-sm sm:text-base hover:scale-[1.02] transition disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
           >
             {loading ? <Loader2 className="animate-spin" size={20} /> : <Send size={20} />}
-            {loading ? 'Predicting...' : 'Predict'}
+            {loading ? 'Processing...' : 'Process'}
           </button>
         </form>
 
